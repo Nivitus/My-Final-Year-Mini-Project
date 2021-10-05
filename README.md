@@ -1,6 +1,6 @@
 # Car-Brand-Classification
  
-![Cotton](Images/cotton.jpg)  
+![Car](Images/car1.jpg)  
 
 ## Table of Content ##
 - [Demo](#demo)
@@ -20,7 +20,7 @@
 
 ## Demo
 
-![Cotton](Images/cot.gif)  
+![cargif](Images/cargif.gif)  
 
 ## Overview
 
