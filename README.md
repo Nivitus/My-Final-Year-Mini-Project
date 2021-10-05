@@ -1,4 +1,4 @@
-# Car-Brand-Classification
+# Car-Brand-Classification using CNN
  
 ![Car](Images/car1.jpg)  
 
