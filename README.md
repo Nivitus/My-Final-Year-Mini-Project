@@ -131,7 +131,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 
 ## License
-   Copyright 2020 Nivitus
+   Copyright 2021 Nivitus
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License. 
